@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="digite_email">Digite seu e-mail</string>
+    <string name="digite_senha">Digite sua senha</string>
+    <string name="botao_logar">Logar</string>
+    <string name="nao_tem_conta">Não tem conta? Cadastre-se.</string>
+    <string name="digite_nome">Digite o seu nome</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="menu_pesquisar">Pesquisar</string>
+    <string name="menu_configuracao">Configuração</string>
+    <string name="menu_sair">Sair</string>
+    <string name="configuracao_nomeUsuario">Nome do usúario</string>
+    <string name="configuracao_aviso">Esse não é o seu nome de usúario nem sua senha. \n
+    Esse nome ficará visivel para os seus contatos do WhatsApp</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="digite_mensagem">Digite uma mensagem</string>
+    <string name="nome_grupo">Nome do Grupo</string>
+    <string name="aviso_cadastroGrupo">Defina um nome e uma imagem opcional </string>
+    <string name="quantidade_participante">Participantes: 0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_grupo">GrupoActivity</string>
+    <string name="title_activity_cadastro_grupo">CadastroGrupoActivity</string>
+</resources>
